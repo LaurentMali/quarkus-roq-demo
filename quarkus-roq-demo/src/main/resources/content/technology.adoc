@@ -1,0 +1,7 @@
+---
+layout: layout
+title: Technology Notes
+---
+= Technology Notes
+
+Hier findest du verschiedene technische Artikel und Dokumentationen.

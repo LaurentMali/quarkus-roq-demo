@@ -1,0 +1,7 @@
+---
+layout: layout
+title: Lecture Notes
+---
+= Lecture Notes
+
+Hier findest du Vorlesungsnotizen für verschiedene Fächer.

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>{title ?: 'der stütz • punkt'}</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header>
+    <h1>der stütz • punkt</h1>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/lecture">Lecture Notes</a>
+        <a href="/technology">Technology Notes</a>
+        <a href="/project">Project Notes</a>
+        <a href="/services">Services</a>
+    </nav>
+</header>
+<main>
+    {@raw content/}
+</main>
+<footer>
+    <p>&copy; 2025 Info Page of Thomas Stütz</p>
+</footer>
+</body>
+</html>

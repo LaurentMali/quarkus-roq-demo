@@ -1,0 +1,6 @@
+site:
+  title: "der stütz • punkt"
+  base-url: /
+content-dir: src/main/resources/content
+output-dir: src/main/resources/META-INF/resources
+template: src/main/resources/templates/layout.qute
