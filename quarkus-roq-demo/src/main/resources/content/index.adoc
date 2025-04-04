@@ -1,0 +1,7 @@
+---
+layout: layout
+title: Home
+---
+= Willkommen zu der stütz • punkt
+
+Dies ist die Info-Seite für SchülerInnen der HTL Leonding.
